@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ICC_Gallery</string>
+    <string name="tvStringFullname">Full Name</string>
+    <string name="tvStringEmail">Email</string>
+    <string name="facebook_app_id">165393394192046</string>
+    <string name="fb_login_protocol_scheme">fb165393394192046</string>
+    <string name="tvFullname">John Doe</string>
+    <string name="tvEmail">john@doe.com</string>
+    <string name="btnGallery">See Photos</string>
 </resources>
