@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.util.Base64;
 import android.util.Log;
 import android.view.View;
+import android.widget.Adapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -174,7 +175,7 @@ public class ActivityLogin extends AppCompatActivity
 
     public void onClickSeePhotos(View view)
     {
-        Intent intent = new Intent(this, null);
+        Intent intent = new Intent(this, AdapterAlbumList.class);
         intent.putExtras(bundle);
         startActivity(intent);
     }

@@ -7,4 +7,6 @@
     <string name="tvFullname">John Doe</string>
     <string name="tvEmail">john@doe.com</string>
     <string name="btnGallery">See Photos</string>
+    <string name="tvAlbumName">Album Name</string>
+    <string name="tvPhotoName">Photo Name</string>
 </resources>
